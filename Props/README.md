@@ -4,6 +4,7 @@
 - Props are passed to components via HTML attributes
 
 Topics covered:
+- Use of object
 - Introduction to props
 - Children props (props in bw opening and closing tags of a component )
 - Destructuring

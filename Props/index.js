@@ -47,3 +47,5 @@ const Book = (props) => {
     </article>
   );
 }
+
+ReactDOM.render(<BookList />, document.getElementById('root')); 

@@ -6,3 +6,4 @@
 Topics covered:
 - Introduction to props
 - Children props (props in bw opening and closing tags of a component )
+- Destructuring

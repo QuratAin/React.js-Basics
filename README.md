@@ -1,1 +1,21 @@
 # React.js-Basics
+Topics covered:
+- About react 
+- Introduction to components
+- Root component, component tree
+- Independence, reusability and speed.
+- create-react-app
+- Folder structure
+- Use of boilerplate
+- JSX Rules
+- Nested components
+- JSX CSS
+- Props
+- Props destructuring
+- Props - children
+- Simple list
+- Proper list
+- Key prop and spread operator
+- Event basics
+- Import and Export statements
+- Mini BookList project
